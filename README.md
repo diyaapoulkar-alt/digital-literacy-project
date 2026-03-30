@@ -56,6 +56,8 @@ digital-literacy-project/
 
 ├── task-4-email-etiquette/
 ├── task-5-cybercrime/
+    casestudy.md
+    prevention-checklist.txt
 └── report/
 
 
